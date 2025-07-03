@@ -31,7 +31,7 @@ A comprehensive task management API built with FastAPI, SQLModel, and Pydantic.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/haneenalaa465/Task-Management-API
-   cd task-management-api
+   cd Task-Management-API
    ```
 
 2. **Create virtual environment**
